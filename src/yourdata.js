@@ -27,7 +27,7 @@ export default
             },
             {
                 name: 'Apple Podcasts',
-                url: 'https://podcasts.apple.com/in/podcast/id1453619212
+                url: 'https://podcasts.apple.com/in/podcast/id1453619212'
             }
 
         ]
