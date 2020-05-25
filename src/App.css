@@ -51,6 +51,7 @@ nav{
   left:60em;
   top:6em;
 z-index: 100;
+  font-weight: 900;
 }
 nav li{
   display: inline-block;
@@ -120,7 +121,7 @@ li .link:hover{
   width: 37em;
 }
 .about img{
-  margin-left: 5em;
+  margin-left: 11em;
 }
 .work{
   position: relative;
